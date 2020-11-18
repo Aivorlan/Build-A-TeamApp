@@ -11,7 +11,8 @@ I WANT to create a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
 ## Link to video of working app 
-
+Please view assets folder for image and video of working app as well as the link below
+https://drive.google.com/file/d/1tqM2hgPC9QA7SvVOHoUsg2fcg_bjP-oE/view?usp=sharing
 ## Installation 
 npm install and npm install inquirer  
 
