@@ -22,8 +22,9 @@ npm install and npm install inquirer
 You will build a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user. Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
 
 ## Questions 
-If you have any questions, please feel free to contact me below.
-<a href='https://github.com/Aivorlan'>Github Profile: Aivorlan</a>
 <br>
 <img src='https://avatars3.githubusercontent.com/u/65247434?v=4' height='200px' alt='github avatar'>
+<br>
+If you have any questions, please feel free to contact me below.
+<a href='https://github.com/Aivorlan'>Github Profile: Aivorlan</a>
 Email: OfficialQuin@icloud.com
