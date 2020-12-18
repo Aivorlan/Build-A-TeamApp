@@ -27,6 +27,9 @@ You will build a software engineering team generator command line application. T
 <br>
 <a href='https://github.com/Aivorlan'>Github Profile: Aivorlan</a>
 <br>
-If you have any questions, please feel free to contact me below.
-<a href='https://github.com/Aivorlan'>Github Profile: Aivorlan</a>
+If you have any questions, please feel free to contact me via email or LinkedIn message.
+<br>
 Email: OfficialQuin@icloud.com
+<br>
+<a href='https://www.linkedin.com/in/quinton-bryant-485a121a7'>Click here to message me on LinkedIn</a>
+
