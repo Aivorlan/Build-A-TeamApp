@@ -25,6 +25,8 @@ You will build a software engineering team generator command line application. T
 <br>
 <img src='https://avatars3.githubusercontent.com/u/65247434?v=4' height='200px' alt='github avatar'>
 <br>
+<a href='https://github.com/Aivorlan'>Github Profile: Aivorlan</a>
+<br>
 If you have any questions, please feel free to contact me below.
 <a href='https://github.com/Aivorlan'>Github Profile: Aivorlan</a>
 Email: OfficialQuin@icloud.com
